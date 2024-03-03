@@ -1,0 +1,7 @@
+{
+    "text.autoconfig.youaintcool.title": "YouAintCool Configuration",
+    "text.autoconfig.youaintcool.option.hideTags": "Hide VIP Rank",
+    "text.autoconfig.youaintcool.option.hideBadges": "Hide VIP Badges",
+    "text.autoconfig.youaintcool.option.hideBoosts": "Hide Boost Messages",
+    "text.autoconfig.youaintcool.option.silenceMode": "Hide VIP Messages"
+}

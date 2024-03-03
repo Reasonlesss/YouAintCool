@@ -1,0 +1,32 @@
+{
+    "schemaVersion": 1,
+    "id": "youaintcool",
+    "version": "${version}",
+    "name": "youaintcool",
+    "description": "Hides VIP Features",
+    "authors": [],
+    "contact": {
+        "website": "https://github.com/Reasonlesss/youaintcool",
+        "repo": "https://github.com/Reasonlesss/youaintcool"
+    },
+    "license": "MIT",
+    "icon": "assets/youaintcool/icon.png",
+    "environment": "client",
+    "entrypoints": {
+        "client": [
+            "codes.reason.youaintcool.YouAintCoolClient"
+        ],
+        "main": [],
+        "modmenu": [
+            "codes.reason.youaintcool.ModMenuIntegration"
+        ]
+    },
+    "mixins": [
+        "youaintcool.mixins.json"
+    ],
+    "depends": {
+        "fabricloader": ">=${loader_version}",
+        "fabric": "*",
+        "minecraft": "${minecraft_version}"
+    }
+}
