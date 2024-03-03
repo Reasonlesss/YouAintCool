@@ -34,4 +34,7 @@ Here are some reviews from our happy customers.
 - Vattendroppen
 - Tim FoxPlush
 - qxeii
+- Soap
+- Synsao
+- Sao
 - frog bog nepotism
