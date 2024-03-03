@@ -7,6 +7,7 @@ you can hide the messages of anyone who has VIP rank. Each feature is configurab
 
 ## How?
 Simple!
+<br>
 <img src="https://github.com/Reasonlesss/YouAintCool/blob/master/github/demonstration.png?raw=true" />
 
 ## Reviews
