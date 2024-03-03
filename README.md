@@ -1,5 +1,5 @@
 # YouAintCool
-![Github Releases](https://img.shields.io/github/downloads/Reasonlesss/YouAintCool?style=plastic)<br>
+![Github Releases](https://img.shields.io/github/downloads/Reasonlesss/YouAintCool/total.svg?style=plastic)<br>
 The long awaited sequel to YouAintSpecial.
 
 ## What does it do?
