@@ -2,8 +2,8 @@
     "schemaVersion": 1,
     "id": "youaintcool",
     "version": "${version}",
-    "name": "youaintcool",
-    "description": "Hides VIP Features",
+    "name": "YouAintCool",
+    "description": "Hides DiamondFire VIP Features",
     "authors": [],
     "contact": {
         "website": "https://github.com/Reasonlesss/youaintcool",
@@ -27,6 +27,10 @@
     "depends": {
         "fabricloader": ">=${loader_version}",
         "fabric": "*",
-        "minecraft": "${minecraft_version}"
+        "minecraft": "${minecraft_version}",
+        "cloth-config": ">=13.0.0"
+    },
+    "custom": {
+        "modmenu:clientsideOnly": true
     }
 }
